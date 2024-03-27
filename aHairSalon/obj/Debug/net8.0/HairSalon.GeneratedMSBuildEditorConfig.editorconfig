@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HairSalon
 build_property.RootNamespace = HairSalon
@@ -18,8 +26,68 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\HairSalon
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/HairSalon/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/HairSalon/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Articuls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Articuls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Articuls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Articuls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Articuls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/HairSalon/Views/Home/Index.cshtml]
@@ -28,6 +96,46 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/HairSalon/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Services/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Services/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Services/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Services/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HairSalon/Views/Services/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/HairSalon/Views/Shared/Error.cshtml]

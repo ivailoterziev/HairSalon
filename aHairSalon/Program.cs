@@ -16,10 +16,11 @@ namespace HairSalon
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            builder.Services.AddDefaultIdentity<Client>(options => options.SignIn.RequireConfirmedAccount = false)
+                .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddControllers(options => options.SuppressImplicitRequiredAttributeForNonNullableReferenceTypes = true);
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -40,6 +41,7 @@ namespace HairSalon
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseAuthentication();
 
             app.MapControllerRoute(
                 name: "default",
